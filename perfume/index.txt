@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Perfume</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <h1>Perfume</h1>
+        <ul>
+            <li>Home |</li>
+            <li>Products |</li>
+            <li>About Us |</li>
+            <li>Contact us</li>
+        </ul>
+    </nav>
+
+    </div>
+    <div class="searchbar">
+        <input placeholder="Search">
+
+    </div>
+    <div class="product">
+        <div class="box">
+            <img src="img1.jpg">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis illo ex neque dolores eius fugiat blanditiis! Optio at quia ipsa.</p>
+
+        </div>
+        <div class="box">
+            <img src="img1.jpg">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis illo ex neque dolores eius fugiat blanditiis! Optio at quia ipsa.</p>
+
+        </div>
+        <div class="box">
+            <img src="img1.jpg">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis illo ex neque dolores eius fugiat blanditiis! Optio at quia ipsa.</p>
+
+        </div>
+        
+
+
+    </div>
+    <div class="about">
+        <h1 style="text-align: center;">About us</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut qui, autem consequatur praesentium doloribus id excepturi perspiciatis quibusdam ipsum earum ullam veniam laborum nam, quam reprehenderit et impedit similique fugit saepe beatae a at exercitationem? Dicta fuga ipsa doloribus commodi iure. Facere modi, amet ab consequatur illum architecto? Inventore vero repudiandae doloribus nemo laborum exercitationem rem laboriosam delectus velit cumque alias expedita, neque hic quam praesentium. Velit unde veritatis voluptatibus est, deleniti nihil dolore consequuntur laborum, perspiciatis nisi, laudantium doloremque. Sed sunt hic voluptas rem excepturi assumenda corrupti quaerat, accusamus earum aliquam, ducimus, officia ut? Iste commodi facere esse! Corrupti aspernatur ullam dolorem nulla temporibus, laboriosam labore minus adipisci recusandae assumenda praesentium eligendi reiciendis eveniet expedita deserunt quia eaque quo commodi rerum dolores? Expedita magnam autem in. Impedit aut blanditiis assumenda at nisi corporis, nobis voluptatem in quam? Deserunt voluptatem ducimus sunt incidunt tempora eum impedit neque quae aperiam, sed explicabo natus vitae doloribus nostrum totam iste. Impedit, numquam deleniti mollitia reiciendis ab aspernatur eos unde! Ducimus unde, omnis odio amet libero aspernatur illo doloribus reprehenderit exercitationem aperiam ipsa iure. Quas, labore sit, quasi non ullam numquam itaque aspernatur blanditiis ipsum ad inventore vel magni, error rerum eaque dolore quisquam odio recusandae reprehenderit minima libero. Incidunt dolores asperiores atque odio ipsa facilis voluptas vel. Minima alias repudiandae nobis quaerat rerum in assumenda, officiis hic nemo, earum qui vel atque. Unde repudiandae omnis impedit inventore maiores placeat. Doloremque perferendis eaque maiores consectetur perspiciatis iusto magni amet cum. Quam totam excepturi adipisci minus quasi delectus tenetur distinctio, fugiat quod eveniet soluta recusandae ab odio, doloribus sunt optio. Itaque, asperiores ea sit eligendi incidunt dolor laborum placeat nihil enim maxime quod voluptate dolorem id, harum accusantium quas veniam quam assumenda consectetur natus sapiente! Sed reiciendis numquam quia, quae iste dolorum delectus tempora esse.</p>
+        
+    </div>
+    <div class="contact">
+        <h4>Contact</h4>
+        <p>+91 9841164279</p>
+        <p>messimoses14@gmail.com</p>
+        <p style="margin-top: 30px;font-size: 10px;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia quibusdam possimus impedit rerum repudiandae maxime beatae, perspiciatis corporis numquam. Asperiores voluptates, quis delectus fugit distinctio sit fugiat repellat eveniet ullam, minus necessitatibus quod ad eaque explicabo. Recusandae deserunt ad id doloribus cumque adipisci sint maiores perferendis, cupiditate officiis quia quasi harum soluta magnam fuga commodi expedita at ipsum laborum earum optio! Eum voluptatem nostrum accusantium provident corporis voluptates, necessitatibus excepturi atque reprehenderit. Suscipit animi facilis debitis quaerat nihil explicabo, itaque, ea alias accusantium illo necessitatibus ab soluta aspernatur tenetur provident rerum odit cum nobis assumenda iste a? Doloremque, exercitationem distinctio?</p>
+
+
+    </div>
+    
+</body>
+</html>
